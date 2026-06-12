@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "app_name": "公众号发布助手",
+  "app_version": "v1.0.0",
+  "author": "想活到200岁",
+  "wechat_account": "兔子要活到两百岁",
+  "qr_hint": "扫码关注公众号，获取更新与说明",
+  "email": "2585340342@qq.com",
+  "disclaimer": "本软件仅供个人学习与内容发布辅助，不构成任何投资建议或效果承诺。",
+  "afdian_url": "https://afdian.com/a/Live_200Years",
+  "afdian_hint": "赞赏纯属自愿，不影响任何功能",
+  "footer_lines": [],
+
+  "about_image": "resources/images/about_qr.png",
+  "about_image_url": "https://raw.githubusercontent.com/Liwhappy/Image/main/about/about_qr.png",
+
+  "app_avatar": "resources/images/头像.png",
+  "app_avatar_url": "",
+
+  "resource_assets": {
+    "about_qr": {
+      "url": "https://raw.githubusercontent.com/Liwhappy/Image/main/about/about_qr.png",
+      "local": "resources/images/about_qr.png"
+    }
+  },
+
+  "remote_manifest_url": "https://raw.githubusercontent.com/Liwhappy/Image/main/about/about_info.json",
+
+  "update_flags": {
+    "image": 0,
+    "text": 0,
+    "app": 0
+  },
+  "update_messages": {
+    "image": "关于页二维码图片已更新，请打开「关于」查看",
+    "text": "关于页说明文字已更新，请打开「关于」查看",
+    "app": "软件有新版本，请关注公众号或爱发电获取"
+  }
+}
