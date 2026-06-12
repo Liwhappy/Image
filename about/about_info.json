@@ -27,7 +27,7 @@
   "remote_manifest_url": "https://raw.githubusercontent.com/Liwhappy/Image/main/about/about_info.json",
 
   "update_flags": {
-    "image": 0,
+    "image": 1,
     "text": 0,
     "app": 0
   },
