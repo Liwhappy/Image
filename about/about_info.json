@@ -24,7 +24,7 @@
     }
   },
 
-  "remote_manifest_url": "https://raw.githubusercontent.com/Liwhappy/Image/main/about/about_info.json",
+  "remote_manifest_url": "https://cdn.jsdelivr.net/gh/Liwhappy/Image@main/about/about_info.json",
 
   "update_flags": {
     "image": 1,
